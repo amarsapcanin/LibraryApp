@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="GoldRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressTint">#FFD700</item>
+    </style>
+
+</resources>

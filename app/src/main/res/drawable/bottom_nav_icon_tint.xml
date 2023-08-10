@@ -1,0 +1,9 @@
+<!-- bottom_nav_icon_tint.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Icon color when the icon is focused (selected) -->
+    <item android:color="#C9A5A5A5" android:state_focused="true" />
+    <!-- Icon color when the icon is pressed -->
+    <item android:color="#C99A9A9A" android:state_pressed="true" />
+    <!-- Default icon color -->
+    <item android:color="@color/white" />
+</selector>

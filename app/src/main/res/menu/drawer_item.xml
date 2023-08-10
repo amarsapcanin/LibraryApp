@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addNewBook"
+        android:icon="@drawable/addbook"
+        android:title="Add New Book"/>
+
+    <item
+        android:id="@+id/addNewAuthor"
+        android:icon="@drawable/author"
+        android:title="Rate Author"/>
+
+</menu>
